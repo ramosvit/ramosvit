@@ -1,6 +1,6 @@
 # Olá! Sou o Vitor Ramos.
 
-⭐ Desenvolvedor em formação<br>
+⭐ Engenheiro de Software SRE<br>
 💼 Trabalho com Analise de Dados<br>
 📘 Estudante de Ciência da Computação na UFABC
 
